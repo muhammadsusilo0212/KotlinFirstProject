@@ -6,7 +6,7 @@ fun main(args: Array<String>) {
     println(s)
     println("When we add $a and $b, we get ${a + b}")
     val price = """ 
-    ${'$'}9.99 
+    ${'$'}9.99
     """
     println(price)
 }
