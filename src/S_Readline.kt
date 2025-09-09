@@ -10,4 +10,4 @@ fun main(args: Array<String>) {
     val number = readLine()!!.toInt()
     val square = number * number
     println("Result: " + square)
-} 
+}
