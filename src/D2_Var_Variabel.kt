@@ -4,7 +4,7 @@ fun main(args: Array<String>) {
     println("Pemberian nilai pertama pada varVariabel = "+varVariabel)
     varVariabel = 78 //assigning second value to varVariabel
     println("Pemberian nilai kedua pada varVariabel = "+varVariabel)
-    val phi = 3.14 // tidak bisa di rubah nilai nya
+    val phi = 3.14 // hannya bisa di beri nilai sekali saja
 
     println("nilai phi =" +phi)
 }
